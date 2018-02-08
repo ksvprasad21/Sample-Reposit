@@ -1,0 +1,39 @@
+body {
+
+	padding: 35px;
+	background-color: lightblue;
+	font-family: sans-serif;
+
+}
+
+.container{
+
+	padding: 20px 20px 0 20px;
+	border: 2px solid #80aab7;
+	background-color: #fff;
+	/*position: relative;*/
+
+}
+
+p{
+position: relative;
+left: 0px;
+	top: 0px;
+
+}
+h2{
+	position: absolute;
+}
+
+footer{
+	font-weight: bold;
+	background-color: #80aab7; b
+	color: #c9e3ec;
+	padding: 7px 20px;
+	margin: 3em -20px 0 -20px;
+
+}
+img{
+	border: 2px solid #80aab7;
+	
+}
